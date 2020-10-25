@@ -5,7 +5,7 @@
 # And All member Famz Kebotan
 # Thank for dhenza & greet
 # Login via email biar gk bribet
-# ======INSTALL MELALUI VPS=================================== 
+# ======INSTALL MELALUI VPS======= 
 # sudo apt-get update
 # sudo apt-get install git
 # sudo apt-get install python3-pip
@@ -28,7 +28,7 @@
 # atau
 # python3 sbunicode.py # sb respon add unicode
 
-# ======INSTALL MELALUI TERMUX========================== 
+# ======INSTALL MELALUI TERMUX======== 
 # pkg install python
 # apt-get update
 # pip install --upgrade pip
@@ -59,7 +59,7 @@
 # python3 selfbot.py  #sb normal
 # atau
 # python3 sbunicode.py # sb respon add unicode
-# ========================= ========================= ========================= 
+# ============================================== 
 #  Like dan subscribe chanel youtube 
 # https://www.youtube.com/channel/UClgy3_QDbmzKtu_9J4vPWSQ
 
