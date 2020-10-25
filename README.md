@@ -1,5 +1,5 @@
 # P.KTEAM_BOTS Antares or Dolly
-# Yang slalu suport babysha,dira,onay,padel
+# Yang slalu suport babysha,dira,onay,padel,Ror Burik
 # THANKS FOR AKI DEVAN,Ben,IGO
 # ™Alip•GRIND KILLER...
 # And All member Famz Kebotan
