@@ -1,8 +1,9 @@
 # P.KTEAM_BOTS Antares or Dolly
-# Yang slalu suport babysha,dira,onay,padel,Roy Burik
+# Supported By babysha,dira,onay,padel,Roy Burik
 # THANKS FOR AKI DEVAN,Ben,IGO
 # ™Alip•GRIND KILLER...
 # And All member Famz Kebotan
+# All member MORPHINE BOTS
 # Thank for dhenza & greet
 # Login via email biar gk bribet
 # ======INSTALL MELALUI VPS======= 
