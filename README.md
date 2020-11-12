@@ -2,10 +2,11 @@
 # Supported By babysha,dira,onay,padel,Roy Burik,Wahyu
 # THANKS FOR AKI DEVAN,Ben,IGO
 # ™Alip•GRIND KILLER...
+# BTR Ibal & Friend
 # And All member Famz Kebotan
 # All member MORPHINE BOTS
 # Thank for dhenza & greet
-# Login via email biar gk bribet
+# Login via email biar gk ribet
 # ======INSTALL MELALUI VPS======= 
 # sudo apt-get update
 # sudo apt-get install git
