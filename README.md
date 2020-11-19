@@ -1,6 +1,7 @@
 # P.KTEAM_BOTS Antares or Dolly
 # Supported By babysha,dira,onay,padel,Roy Burik,Wahyu
 # THANKS FOR AKI DEVAN,Ben,IGO
+# Thanks For saudara dzulkifli DKBOT
 # ™Alip•GRIND KILLER...
 # BTR Ibal & Friend
 # And All member Famz Kebotan
